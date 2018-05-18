@@ -18,7 +18,6 @@
     "standard": "^8.5.0"
   },
   "dependencies": {
-    "bitcore-lib": "^0.14.0",
     "elliptic": "^6.4.0",
     "ethereum-address": "0.0.4",
     "ethereumjs-util": "^5.1.2"
